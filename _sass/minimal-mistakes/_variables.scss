@@ -187,7 +187,7 @@ $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
-$x-large: 1440px !default;
+$x-large: 1600px !default;
 // $x-large: 1280px !default;
 $max-width: $x-large !default;
 
@@ -195,9 +195,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 180px !default;  // default 200px
-$right-sidebar-width: 240px !default;        // default 300px
-$right-sidebar-width-wide: 320px !default;  // default 400px
+$right-sidebar-width-narrow: 200px !default;  // default 200px
+$right-sidebar-width: 300px !default;        // default 300px
+$right-sidebar-width-wide: 400px !default;  // default 400px
 
 /*
    Other
