@@ -1,0 +1,12 @@
+woon:
+  name: "Woon-Young Baek"
+  avatar: "/assets/images/profile.jpg"   # 프로필 사진 경로
+  bio: "3D Computer Vision · 3D Gaussian Splatting 연구 중"
+  location: "Seoul, Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "whitecl1031@naver.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Foxhead-Studio"
